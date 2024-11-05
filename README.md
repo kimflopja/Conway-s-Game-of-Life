@@ -1,1 +1,1 @@
-Simple project done in leisure time.
+Simple project. 
